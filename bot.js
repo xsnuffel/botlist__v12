@@ -275,7 +275,7 @@ client.on('modalSubmit',async (modal) => {
 		
 	  
 	}  
-  })
+  }; 
 
 
 
